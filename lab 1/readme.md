@@ -2,7 +2,3 @@
 <h1>Basic Web Design</h1>
 
 <a href="lab 1/index.html" target="_blank">Lab 1 - Hello World</a>
-
-<ul>
-    <li><a href="lab 3/index.html" target="_blank">Lab 2</a></li>
-</ul>

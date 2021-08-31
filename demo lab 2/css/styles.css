@@ -1,17 +1,17 @@
 body {
-    background-color: #0C1B32;
+    background-color: #52607E;
 }
 
 #container {
-    background-color: #7F0F36;
+    background-color: #F3756A;
     width: 900px;
     margin: 20px auto;
     border-radius: 20px;
 }
 
 header {
-    padding-top: 20px 0;
-    background-color: #E4BDC0;
+    padding-top:20px 0; 
+    background-color: #C1EE92;
     border-radius: 20px 20px 0 0;
 }
 
@@ -22,73 +22,74 @@ header img {
 }
 
 header h1 {
-    font-size: 2.5em;
+    font-size: 2.5em; 
     text-align: center;
-    color: #7F0F36;
+    color: #F3756A;
 }
 
 nav {
-    background-color: #7F0F36;
+    background-color: #F3756A;
     padding-top: 10px;
     text-align: center;
 }
 
-nav a {
+nav a{
     display: inline-block;
-    background-color: #E4BDC0;
+    background-color: #C1EE92;
     height: 50px;
     width: 175px;
     font-size: 1.5em;
     font-weight: bold;
     line-height: 50px;
-    color: #0C1B32;
+    color: #52607E;
     text-decoration: none;
     border-radius: 10px 10px 0 0;
     margin: 0 10px;
 }
 
 nav a:hover {
-    background-color: #0C1B32;
-    color: #E4BDC0;
+    background-color: #52607E;
+    color: #C1EE92;
 }
 
 main {
-    background-color: #E4BDC0;
+    background-color: #C1EE92;
     padding: 20px;
     margin: 0 20px 20px 20px;
+
 }
 
 main h2{
     text-align: center;
-    color: #7F0F36;
+    color: #52607E;
     font-size: 2em;
 }
 
 main img {
     display: block;
-    width: 30%;
+    width: 50%;
     margin: 20px auto;
-    background-color: #E4BDC0;
+    background-color: #52607E;
     padding: 20px;
     border-radius: 20px;
 }
 
 footer {
-    background-color: #E4BDC0;
+    background-color: #C1EE92;
     padding: 60px 0;
-    color: #7F0F36;
+    color: #F3756A;
     font-size: 1.5em;
     text-align: center;
     border-radius: 0 0 20px 20px;
 }
 
 .active {
-    background-color: #0C1B32;
-    color: #E4BDC0;
+    background-color: #52607E;
+    color: #C1EE92; 
 }
 
 .pro_head {
     text-align: center;
-    color: #7F0F36;
+    color: #F3756A;
     font-size: 1.5em;
 }

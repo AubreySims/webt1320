@@ -6,5 +6,5 @@
 </ul>
 
 <ul>
-    <li><a href="lab 2/index.html" target="_blank">Lab 2</a></li>
+    <li><a href="lab 3/index.html" target="_blank">Lab 2</a></li>
 </ul>

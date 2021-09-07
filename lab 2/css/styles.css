@@ -1,0 +1,94 @@
+body {
+    background-color: #121C35;
+}
+
+#container {
+    background-color: #7D022F;
+    width: 900px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+header {
+    padding-top: 20px 0;
+    background-color: #E1AEAE;
+    border-radius: 20px 20px 0 0;
+}
+
+header img {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-size: 2.5em;
+    text-align: center;
+    color: #7D022F;
+}
+
+nav {
+    background-color: #7D022F;
+    padding-top: 10px;
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    background-color: #E1AEAE;
+    height: 50px;
+    width: 175px;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 50px;
+    color: #121C35;
+    text-decoration: none;
+    border-radius: 10px 10px 0 0;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    background-color: #121C35;
+    color: #E1AEAE;
+}
+
+main {
+    background-color: #E1AEAE;
+    padding: 20px;
+    margin: 0 20px 20px 20px;
+}
+
+main h2 {
+    text-align: center;
+    color: #121C35;
+    font-size: 2em;
+}
+
+main img {
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+    background-color: #121C35;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: #E1AEAE;
+    padding: 60px 0;
+    color: #7D022F;
+    font-size: 1.5em;
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+}
+
+.active {
+    background-color: #121C35;
+    color: #E1AEAE;
+}
+
+.pro_head {
+    text-align: center;
+    color: #7D022F;
+    font-size: 1.5em;
+}

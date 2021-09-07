@@ -3,4 +3,6 @@
 
 <a href="Lab 1/index.html" target="_blank">Lab 1 - Hello World</a>
 
+<a href="lab 2/index.html" target="_blank">Lab 2 - Scarlett's Flower Truck</a>
+
 <a href="lab 3/index.html" target="_blank">Lab 3 - Aubrey's Arts</a>

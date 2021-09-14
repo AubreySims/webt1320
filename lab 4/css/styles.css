@@ -101,13 +101,13 @@ footer {
 
 .single_col {
     width: 83%;
+    margin: auto 0px;
 }
 
 audio, video {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 75%;
+    margin: auto 0px;
 }
 
 .gallery_img {
@@ -168,6 +168,7 @@ table {
 
     .single_col {
         width: 95%;
+        margin: auto 0px;
     }
 }
 

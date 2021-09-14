@@ -7,4 +7,4 @@
 
 <a href="lab 3/index.html" target="_blank">Lab 3 - Aubrey's Arts</a>
 
-<a href="lab 4/index.html" target="_blank">Lab 4 - Brodey's Cooking Class
+<a href="lab 4/index.html" target="_blank">Lab 4 - Brodey's Cooking Class</a>

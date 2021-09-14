@@ -166,6 +166,7 @@ table {
     .single_col {
         width: 95%;
     }
+    
     table, tr, td {
         border: 4px solid #D92323;
         padding: 10px;

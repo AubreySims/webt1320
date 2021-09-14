@@ -210,10 +210,4 @@ table {
         display: none;
     }
 
-    table {
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
-    }
-
 }

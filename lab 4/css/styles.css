@@ -105,14 +105,16 @@ footer {
 
 audio, video {
     display: block;
-    margin: 20px auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 75%;
 }
 
 .gallery_img {
     border: 4px solid #F93A1E;
     border-radius: 10px;
-    margin: 10px auto;
+    margin-left:  auto;
+    margin-right: auto;
 }
 
 table {

@@ -223,6 +223,6 @@ table {
     }
 
     table {
-        align-content: center;
+        display: inline-block;
     }
 }

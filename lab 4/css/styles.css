@@ -114,7 +114,7 @@ audio, video {
 .gallery_img {
     border: 4px solid #F93A1E;
     border-radius: 10px;
-    margin-left:  auto;
+    margin-left: auto;
     margin-right: auto;
     padding: 10px;
 }
@@ -224,5 +224,6 @@ table {
 
     table {
         display: block;
+        align-content: center;
     }
 }

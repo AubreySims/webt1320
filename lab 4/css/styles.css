@@ -209,12 +209,13 @@ table {
     }
 
     table, tr, td {
+        border: 4px solid #F93A1E;
         margin-left: auto;
         margin-right: auto;
     }
 
     table img {
-        width: 75%;
+        width: 100%;
     }
 
     .gallery {
